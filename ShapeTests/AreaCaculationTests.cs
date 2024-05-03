@@ -1,6 +1,3 @@
-using ShapeLibrary;
-using ShapeLibrary.Shapes;
-
 namespace ShapeTests
 {
     public class AreaCaculationTests
